@@ -1,4 +1,4 @@
-## Functions compute inverse of the matrix and cashe the result
+## Functions compute inverse of the matrix and cache the result.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
